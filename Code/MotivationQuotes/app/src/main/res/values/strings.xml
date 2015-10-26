@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quotes</string>
+    <string name="title_sectionMotivationQuotes">Motivation Quotes</string>
+    <string name="title_sectionLoveQuotes">Love Quotes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragmentq">Motivation Quotes</string>
+    <string name="btnPrev">Previous</string>
+    <string name="btnNext">Next</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
